@@ -1,0 +1,1 @@
+if file.endswith('.class') or 'gitigone' in file:
