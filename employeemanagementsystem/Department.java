@@ -4,5 +4,5 @@ interface Department {
     public String assignDepartment();
     public void getDepartmentDetails();
 
-     
+
 }
